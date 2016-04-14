@@ -1,0 +1,23 @@
+body {
+  background: #4A2D31;
+  color: #E4D2D4; }
+
+.inline {
+  font-size: 0.8em;
+  display: inline-block;
+  color: #95777B;
+  padding: 4px;
+  background: #E4D2D4;
+  border: 1px solid #95777B;
+  margin: 3px;
+  border-radius: 5px;
+  color: #4A2D31; }
+
+#preview {
+  background: white;
+  color: black;
+  border: 2px solid #715458;
+  border-radius: 5px;
+  min-height: 300px; }
+
+/*# sourceMappingURL=styles.css.map */
